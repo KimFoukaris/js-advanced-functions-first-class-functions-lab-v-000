@@ -1,1 +1,3 @@
-// Code your solution in this file!
+const firstTwoDrivers = function(drivers) {
+  return driver.indexOf < 2;
+}

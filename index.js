@@ -1,3 +1,3 @@
-const returnfirstTwoDrivers = function (drivers) {
+const returnFirstTwoDrivers = function (drivers) {
   return driver.indexOf < 2;
 }

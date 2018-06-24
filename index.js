@@ -1,4 +1,3 @@
 const returnFirstTwoDrivers = function (drivers) {
-  drivers.filter(function(driver) {
-    return drivers.indexOf < 2});
+  return drivers.slice(0, 2);
 }

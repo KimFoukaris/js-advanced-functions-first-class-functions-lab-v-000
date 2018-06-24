@@ -3,5 +3,5 @@ const returnFirstTwoDrivers = function (drivers) {
 }
 
 const returnLastTwoDrivers = function (drivers) {
-  return drivers.slice(drivers.length - 2, 2);
+  return drivers.slice(Math.max(arr.length - 2, 2));
 }
